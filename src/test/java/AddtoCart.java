@@ -36,6 +36,7 @@ public class AddtoCart {
 
         System.out.println(driver.findElement(By.cssSelector("span.promoInfo")).getText());
         System.out.println("git practice");
+        System.out.println("chages by gits stuff");
 
 
 
